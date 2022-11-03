@@ -1,3 +1,2 @@
-﻿# movie-recommendation-system
-Website
-https://movie-recommendation-system101.herokuapp.com/
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
